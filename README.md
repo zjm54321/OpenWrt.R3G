@@ -37,3 +37,7 @@ USB|1x 3.0
 
 
 0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣🔟
+
+```
+luci-theme-design备份来源 [github.com/fichenx](https://github.com/fichenx/packages)
+```
