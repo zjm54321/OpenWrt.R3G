@@ -24,16 +24,16 @@ USB|1x 3.0
 * luci-app-upnp 3️⃣
 * block-mount 4️⃣
 
-> 仅以收录WebUI,对应核心·翻译包自动补齐
+> 仅以收录WebUI,对应核心·依赖·翻译包自动补齐
 
 ### 通过三方渠道
 * luci-app-mihomo 2️⃣
 
+> Downloads
 > [OpenWrt-mihomo](https://github.com/morytyann/OpenWrt-mihomo)
-> 
 > [mihomo](https://github.com/MetaCubeX/mihomo)
-> 
 > [dl.openwrt.ai](https://dl.openwrt.ai/packages-24.10/mipsel_24kc/kiddin9/luci-app-mihomo_25.338.56456~437f166_all.ipk)
+> [OpenWrt固件插件](https://dllkids.xyz/packages/mipsel_24kc/)
 
 ## 选装插件：
 
@@ -42,6 +42,7 @@ USB|1x 3.0
 * luci-app-aria2
 * luci-app-mwan3
 * luci-app-openclash
+* luci-app-clash v1.8.0-2
 * luci-app-frpc
 * tailscale
 * luci-app-zerotier
@@ -54,4 +55,6 @@ USB|1x 3.0
 
 ```
 luci-theme-design备份来源 [github.com/fichenx](https://github.com/fichenx/packages)
+同步上游更新 (https://github.com/kenzok8/small-package)
+GithubPage (https://kenzok8.github.io/openwrt-packages/)
 ```
