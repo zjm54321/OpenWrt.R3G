@@ -16,15 +16,15 @@ USB|1x 3.0
 [Latest Stable Release](https://downloads.openwrt.org/)
 ```
 
-## 原版必装插件：
+## 必装插件：
 ### 通过官方渠道
 
 * luci-i18n-base-zh-cn 0️⃣
 * luci-app-ksmbd 1️⃣
 * luci-app-upnp 3️⃣
-* block-mount
+* block-mount 4️⃣
 
-> 对应核心翻译包自动补齐
+> 仅以收录WebUI,对应核心·翻译包自动补齐
 
 ### 通过三方渠道
 * luci-app-mihomo 2️⃣
@@ -35,6 +35,20 @@ USB|1x 3.0
 > 
 > [dl.openwrt.ai](https://dl.openwrt.ai/packages-24.10/mipsel_24kc/kiddin9/luci-app-mihomo_25.338.56456~437f166_all.ipk)
 
+## 选装插件：
+
+* luci-mod-dashboard
+* luci-app-diskman
+* luci-app-aria2
+* luci-app-mwan3
+* luci-app-openclash
+* luci-app-frpc
+* tailscale
+* luci-app-zerotier
+* adguardhome
+* luci-app-samba4
+* luci-app-smartdns
+* luci-app-wol
 
 0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣🔟
 
