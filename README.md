@@ -2,15 +2,16 @@
 | OpenWrt | 23.05.5 |
 | :------ |:-------:|
 Architecture|MIPS
+Targets|ramips
 Vendor|Mediatek
 Bootloader|Breed
 System-On-Chip|MT7621 Family
 CPU/Speed|mipsel_24kc @ 880MHz 2 core
 Flash|128MB SLC Nand Flash
 RAM|RAM 256MB DDR3-1200
-Wireless|MT7603/MT7612 2.4GHz/5GHz 802.11an+ac
-Ethernet|1000 Mbit/s / vlan support
-USB|1x3.0
+Wireless|2.4G MT7603EN WiFi 2X2 802.11N<br>5G MT7612EN WiFi 2X2 802.11AC
+Ethernet|3x1000Mbit/s VLAN Support
+USB|1x3.0 DC Output:5V/1A
 
 ```
 [Latest Stable Release](https://downloads.openwrt.org/)
