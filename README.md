@@ -29,28 +29,46 @@ USB|1x3.0 DC Output:5V/1A
 
 ### 通过三方渠道🪄
 * luci-app-mihomo 2️⃣
+* luci-theme-design 5️⃣
 
-> Downloads
-> [OpenWrt-mihomo](https://github.com/morytyann/OpenWrt-mihomo)
-> [mihomo](https://github.com/MetaCubeX/mihomo)
-> [dl.openwrt.ai](https://dl.openwrt.ai/packages-24.10/mipsel_24kc/kiddin9/luci-app-mihomo_25.338.56456~437f166_all.ipk)
-> [OpenWrt固件插件](https://dllkids.xyz/packages/mipsel_24kc/)
+$$Custom \quad Settings$$
+```html
+<style>
+.navbar {
+  display: none;
+}
+</style>
+
+<div class="navbar">
+  <a href="/cgi-bin/luci/admin/status/overview"><img src="<%=media%>/images/home.png" /></a>
+  <a href="/cgi-bin/luci/admin/services/openclash"><img src="<%=media%>/images/openclash.png" /></a>
+  <a href="/cgi-bin/luci/admin/network/network"><img src="<%=media%>/images/link.png" /></a>
+  <a href="/cgi-bin/luci/admin/status/realtime"><img src="<%=media%>/images/rank.png" /></a>
+  <a href="/cgi-bin/luci/admin/system/admin"><img src="<%=media%>/images/user.png" /></a>
+</div>
+```
+
+`⬇️Download:`
+[OpenWrt-mihomo](https://github.com/morytyann/OpenWrt-mihomo)
+[mihomo](https://github.com/MetaCubeX/mihomo)
+[dl.openwrt.ai](https://dl.openwrt.ai/packages-24.10/mipsel_24kc/kiddin9/)
+[OpenWrt固件插件](https://dllkids.xyz/packages/mipsel_24kc/)
 
 ## 🔮选装插件:
 
-* luci-mod-dashboard
-* luci-app-diskman
-* luci-app-aria2
-* luci-app-mwan3
-* luci-app-openclash
-* luci-app-clash v1.8.0-2
-* luci-app-frpc
-* tailscale
-* luci-app-zerotier
-* adguardhome
-* luci-app-samba4
-* luci-app-smartdns
-* luci-app-wol
+- [ ] luci-mod-dashboard
+- [ ] luci-app-diskman
+- [ ] luci-app-aria2
+- [ ] luci-app-mwan3
+- [ ] luci-app-openclash
+- [ ] luci-app-clash v1.8.0-2
+- [ ] luci-app-frpc
+- [ ] tailscale
+- [ ] luci-app-zerotier
+- [ ] adguardhome
+- [ ] luci-app-samba4
+- [ ] luci-app-smartdns
+- [ ] luci-app-wol
 
 0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣🔟
 
