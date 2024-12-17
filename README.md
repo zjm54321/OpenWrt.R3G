@@ -18,14 +18,13 @@ USB|1x3.0 DC Output:5V/1A
 ```
 
 ## 📔必装插件:
+> 仅收录WebUI,对应核心·依赖·翻译包自动补齐
 ### 通过官方渠道✨
 
 * luci-i18n-base-zh-cn 0️⃣
 * luci-app-ksmbd 1️⃣
 * luci-app-upnp 3️⃣
 * block-mount 4️⃣
-
-> 仅收录WebUI,对应核心·依赖·翻译包自动补齐
 
 ### 通过三方渠道🪄
 * luci-app-mihomo 2️⃣
