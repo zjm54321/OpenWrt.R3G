@@ -75,6 +75,6 @@ $$Custom \quad Settings$$
 
 ```
 luci-theme-design备份来源 @fichenx(https://github.com/fichenx/packages)
-同步上上游更新 (https://github.com/kenzok8/small-package)
+同步"上上上上上上上"游更新 (https://github.com/kenzok8/small-package)
 GithubPage (https://kenzok8.github.io/openwrt-packages/)
 ```
