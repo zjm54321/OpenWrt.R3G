@@ -56,11 +56,13 @@ $$Custom \quad Settings$$
 ## 🔮选装插件:
 
 - [ ] luci-mod-dashboard
-- [ ] luci-app-diskman
+- [ ] [luci-app-diskman](https://github.com/lisaac/luci-app-diskman)
+- [ ] [luci-app-disks-info](https://github.com/gSpotx2f/luci-app-disks-info)
 - [ ] luci-app-aria2
 - [ ] luci-app-mwan3
+- [ ] luci-app-oaf
 - [ ] luci-app-openclash
-- [ ] luci-app-clash v1.8.0-2
+- [ ] [luci-app-clash](https://github.com/frainzy1477/luci-app-clash)
 - [ ] luci-app-frpc
 - [ ] tailscale
 - [ ] luci-app-zerotier
@@ -68,6 +70,31 @@ $$Custom \quad Settings$$
 - [ ] luci-app-samba4
 - [ ] luci-app-smartdns
 - [ ] luci-app-wol
+- [ ] luci-app-sqm
+- [ ] luci-app-wifidog
+
+<table>
+<thead>
+<tr>
+<th align="left">⚙️ 系统</th>
+<th align="left">⚓ 服务</th>
+<th align="left">🐳 Docker</th>
+<th align="left">🩺 网络</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">TTYd</td>
+<td align="left">MihomoTProxy</td>
+<td align="left">DockerMan</td>
+<td align="left">网速测试</td>
+</tr>
+<tr>
+<td align="left">DiskMan</td>
+<td align="left">Watchdog</td>
+<td align="left">Docker Compose</td>
+<td align="left">WireGuard</td>
+</tr>
+</tbody></table>
 
 0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣🔟
 
