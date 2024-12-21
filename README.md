@@ -105,4 +105,6 @@ luci-theme-design备份来源 @fichenx(https://github.com/fichenx/packages)
 同步"上上上上上上上"游更新 (https://github.com/kenzok8/small-package)
 GithubPage (https://kenzok8.github.io/openwrt-packages/)
 ```
-[OpenWRT团队](https://github.com/openwrt/openwrt)，[Lean大雕](https://github.com/coolsnowwolf/lede)，[ImmortalWRT团队](https://github.com/immortalwrt/immortalwrt)，[Kiddin9大神](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1)，[Lienol大神](https://github.com/lienol/openwrt)
+[OpenWRT Team](https://github.com/openwrt/openwrt),[Lean大雕](https://github.com/coolsnowwolf/lede),[ImmortalWRT Team](https://github.com/immortalwrt/immortalwrt),[Kiddin9大神](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1),[Lienol大神](https://github.com/lienol/openwrt),[OprX项目](https://www.oprx.top/),[iStoreOS](https://fw.koolcenter.com/iStoreOS/)
+
+[hackpascal](https://breed.hackpascal.net/),[hanwckf](https://cmi.hanwckf.top/),[hiboy](https://opt.cn2qq.com/padavan/),[XiaoWanSM](https://pan.wwang.pw/)
