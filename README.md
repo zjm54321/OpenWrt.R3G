@@ -1,10 +1,6 @@
 <div align="center">
-<img width="768" src="https://github.com/Kakile/OpenWrt.R3G/blob/1aadd7355a839bcdab4b627d9815b062f6b50102/Images/openwrt-logo.svg"/>
-<h1>OpenWrt — 小米路由3G<img src="https://github.com/Kakile/OpenWrt.R3G/blob/1aadd7355a839bcdab4b627d9815b062f6b50102/Images/xiaomi-3.svg" alt="XiaoMi logo" width="26" style="margin-left: 10px;"/></h1>
-
-<a href="https://github.com/Kakile/OpenWrt.R3G" target="_blank">
-  <img src="https://github.com/Kakile/OpenWrt.R3G/blob/1aadd7355a839bcdab4b627d9815b062f6b50102/Images/openwrt-logo.svg" alt="OpenWrt logo" width="30" style="margin-left: 10px;"/>
-</a>
+<a href="https://downloads.openwrt.org/" target="_blank">
+  <img width="500" src="https://github.com/Kakile/OpenWrt.R3G/blob/41d0180396e39d74852292c7549520c66366b4bd/Images/Openwrtlogo.png"/></a>
 </div>
 
 # 🗂️OpenWrt.R3G
@@ -66,7 +62,7 @@ $$Custom \quad Settings$$
 
 - [ ] luci-mod-dashboard
 - [ ] [luci-app-diskman](https://github.com/lisaac/luci-app-diskman)
-- [ ] [luci-app-disks-info](https://github.com/gSpotx2f/luci-app-disks-info)
+- [x] [luci-app-disks-info](https://github.com/gSpotx2f/luci-app-disks-info)
 - [ ] luci-app-aria2
 - [ ] luci-app-mwan3
 - [ ] luci-app-oaf
