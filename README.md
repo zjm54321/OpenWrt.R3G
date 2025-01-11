@@ -53,9 +53,9 @@ $$Custom \quad Settings$$
 ```
 
 `⬇️Download:`
-[OpenWrt-mihomo](https://github.com/morytyann/OpenWrt-mihomo)
-[mihomo](https://github.com/MetaCubeX/mihomo)
-[dl.openwrt.ai](https://dl.openwrt.ai/packages-24.10/mipsel_24kc/kiddin9/)
+[OpenWrt-MiHomo](https://github.com/morytyann/OpenWrt-mihomo)
+[MiHomo](https://github.com/MetaCubeX/mihomo)
+[OpeWrt.AI](https://dl.openwrt.ai/packages-24.10/mipsel_24kc/kiddin9/)
 [OpenWrt固件插件](https://dllkids.xyz/packages/mipsel_24kc/)
 
 ## 🔮选装插件:
