@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://downloads.openwrt.org/" target="_blank">
-  <img width="500" src="https://github.com/Kakile/OpenWrt.R3G/blob/41d0180396e39d74852292c7549520c66366b4bd/Images/Openwrtlogo.png"/></a>
+  <img width="500" src="https://github.com/Kakile/OpenWrt.R3G/blob/41d0180396e39d74852292c7549520c66366b4bd/Images/Openwrtlogo.png" alt="OpenWrt logo"/></a>
 </div>
 
 # 🗂️OpenWrt.R3G
