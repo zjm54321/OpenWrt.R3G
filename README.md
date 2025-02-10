@@ -1,10 +1,10 @@
 <div align="center">
 <a href="https://downloads.openwrt.org/" target="_blank">
-  <img width="500" src="https://github.com/Kakile/OpenWrt.R3G/blob/41d0180396e39d74852292c7549520c66366b4bd/Images/Openwrtlogo.png" alt="OpenWrt logo"/></a>
+  <img width="500" src="https://github.com/Kakile/OpenWrt.R3G/blob/73bda9d2e889d799e7085991bbea177cda793f73/Images/OpenWrt.png" alt="OpenWrt logo"/></a>
 </div>
 
 # 🗂️OpenWrt.R3G
-| OpenWrt | 23.05.5 |
+| OpenWrt | 24.10.0 |
 | :------ |:-------:|
 Architecture|MIPS
 Targets|ramips
@@ -53,7 +53,7 @@ $$Custom \quad Settings$$
 ```
 
 `⬇️Download:`
-[OpenWrt-MiHomo](https://github.com/morytyann/OpenWrt-mihomo)
+[OpenWrt-NIKKI](https://github.com/morytyann/OpenWrt-mihomo)
 [MiHomo](https://github.com/MetaCubeX/mihomo)
 [OpeWrt.AI](https://dl.openwrt.ai/packages-24.10/mipsel_24kc/kiddin9/)
 [OpenWrt固件插件](https://dllkids.xyz/packages/mipsel_24kc/)
