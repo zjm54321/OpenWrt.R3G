@@ -53,7 +53,7 @@ $$Custom \quad Settings$$
 ```
 
 `⬇️Download:`
-[OpenWrt-NIKKI](https://github.com/morytyann/OpenWrt-mihomo)
+[OpenWrt-NIKKI](https://github.com/nikkinikki-org/OpenWrt-nikki)
 [MiHomo](https://github.com/MetaCubeX/mihomo)
 [OpeWrt.AI](https://dl.openwrt.ai/packages-24.10/mipsel_24kc/kiddin9/)
 [OpenWrt固件插件](https://dllkids.xyz/packages/mipsel_24kc/)
