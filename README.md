@@ -30,6 +30,7 @@ USB|1x3.0 DC Output:5V/1A
 * luci-app-ksmbd 1️⃣
 * luci-app-upnp 3️⃣
 * block-mount 4️⃣
+* luci-app-filemanager
 
 ### 通过三方渠道🪄
 * luci-app-mihomo 2️⃣
