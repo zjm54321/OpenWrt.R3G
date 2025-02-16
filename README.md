@@ -19,7 +19,7 @@ Ethernet|3x1000Mbit/s VLAN Support
 USB|1x3.0 DC Output:5V/1A
 
 ```
-[Latest Stable Release](https://downloads.openwrt.org/)
+[Latest Stable Release](https://firmware-selector.openwrt.org/)
 ```
 
 ## 📔必装插件:
