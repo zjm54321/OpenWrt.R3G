@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://downloads.openwrt.org/" target="_blank">
-  <img width="500" src="https://github.com/Kakile/OpenWrt.R3G/blob/73bda9d2e889d799e7085991bbea177cda793f73/Images/OpenWrt.png" alt="OpenWrt logo"/></a>
+  <img width="500" src="https://raw.githubusercontent.com/zjm54321/OpenWrt.R3G/refs/heads/main/Images/OpenWrt.png" alt="OpenWrt logo"/></a>
 </div>
 
 # 🗂️OpenWrt.R3G
@@ -20,11 +20,14 @@ USB|1x3.0
 DC|Output:5V/1A
 
 
-[Latest Stable Release](https://firmware-selector.openwrt.org/)
 
+[24.10.0 Stable Release](https://firmware-selector.openwrt.org/?version=24.10.0&target=ramips%2Fmt7621&id=xiaomi_mi-router-3g)
 
-## 必装插件:
-> 仅收录WebUI,对应核心·依赖·翻译包自动补齐
+```
+通过actions进行构建
+```
+
+## 安装插件:
 ### 通过官方渠道
 
 * luci-i18n-base-zh-cn
@@ -33,16 +36,16 @@ DC|Output:5V/1A
 * block-mount
 * luci-app-filemanager
 * luci-app-ttyd
-* bash
 
 ### 通过三方渠道
 
 * [Nikki](https://github.com/nikkinikki-org/OpenWrt-nikki)
 * [luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon)
+* [NetSpeedTest](https://github.com/sirpdboy/NetSpeedTest)
+* [luci-app-turboacc](https://github.com/chenmozhijin/turboacc)
 
-## 选装插件:
-
-### 通过官方渠道
+## 其他插件:
+### 可通过官方渠道
 
 - [ ] luci-mod-dashboard
 - [ ] luci-app-aria2
@@ -56,7 +59,7 @@ DC|Output:5V/1A
 - [ ] luci-app-wol
 - [ ] luci-app-sqm
 
-### 通过三方渠道
+### 需通过三方渠道
 
 - [ ] [luci-app-diskman](https://github.com/lisaac/luci-app-diskman)
 - [ ] [luci-app-disks-info](https://github.com/gSpotx2f/luci-app-disks-info)
@@ -64,10 +67,18 @@ DC|Output:5V/1A
 - [ ] luci-app-openclash
 - [ ] [luci-app-clash](https://github.com/frainzy1477/luci-app-clash)
 - [ ] luci-app-wifidog
-- [x] [NetSpeedTest](https://github.com/sirpdboy/NetSpeedTest)
-- [x] [luci-app-turboacc](https://github.com/chenmozhijin/turboacc)
 
 
-[OpenWRT Team](https://github.com/openwrt/openwrt),[Lean大雕](https://github.com/coolsnowwolf/lede),[ImmortalWRT Team](https://github.com/immortalwrt/immortalwrt),[Kiddin9大神](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1),[Lienol大神](https://github.com/lienol/openwrt),[OprX项目](https://www.oprx.top/),[iStoreOS](https://fw.koolcenter.com/iStoreOS/)
 
-[hackpascal](https://breed.hackpascal.net/),[hanwckf](https://cmi.hanwckf.top/),[hiboy](https://opt.cn2qq.com/padavan/),[XiaoWanSM](https://pan.wwang.pw/)
+[OpenWRT Team](https://github.com/openwrt/openwrt)
+[Lean大雕](https://github.com/coolsnowwolf/lede)
+[ImmortalWRT Team](https://github.com/immortalwrt/immortalwrt)
+[Kiddin9大神](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1)
+[Lienol大神](https://github.com/lienol/openwrt)
+[OprX项目](https://www.oprx.top/)
+[iStoreOS](https://fw.koolcenter.com/iStoreOS/)
+
+[hackpascal](https://breed.hackpascal.net/)
+[hanwckf](https://cmi.hanwckf.top/)
+[hiboy](https://opt.cn2qq.com/padavan/)
+[XiaoWanSM](https://pan.wwang.pw/)
