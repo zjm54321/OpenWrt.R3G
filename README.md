@@ -64,8 +64,8 @@ DC|Output:5V/1A
 - [ ] luci-app-openclash
 - [ ] [luci-app-clash](https://github.com/frainzy1477/luci-app-clash)
 - [ ] luci-app-wifidog
-- [ ] [NetSpeedTest](https://github.com/sirpdboy/NetSpeedTest)
-- [ ] [luci-app-turboacc](https://github.com/chenmozhijin/turboacc)
+- [x] [NetSpeedTest](https://github.com/sirpdboy/NetSpeedTest)
+- [x] [luci-app-turboacc](https://github.com/chenmozhijin/turboacc)
 
 
 [OpenWRT Team](https://github.com/openwrt/openwrt),[Lean大雕](https://github.com/coolsnowwolf/lede),[ImmortalWRT Team](https://github.com/immortalwrt/immortalwrt),[Kiddin9大神](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1),[Lienol大神](https://github.com/lienol/openwrt),[OprX项目](https://www.oprx.top/),[iStoreOS](https://fw.koolcenter.com/iStoreOS/)
